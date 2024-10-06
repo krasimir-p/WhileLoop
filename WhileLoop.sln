@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dishwasher", "Dishwasher\Di
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dishwasher2", "Dishwasher2\Dishwasher2.vcxproj", "{E7902C89-EA59-4DCC-9748-377B6E2AEAD9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReportSystem", "ReportSystem\ReportSystem.vcxproj", "{3BCA36D8-BB97-45C4-8D38-C7078997C080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{E7902C89-EA59-4DCC-9748-377B6E2AEAD9}.Release|x64.Build.0 = Release|x64
 		{E7902C89-EA59-4DCC-9748-377B6E2AEAD9}.Release|x86.ActiveCfg = Release|Win32
 		{E7902C89-EA59-4DCC-9748-377B6E2AEAD9}.Release|x86.Build.0 = Release|Win32
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Debug|x64.ActiveCfg = Debug|x64
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Debug|x64.Build.0 = Debug|x64
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Debug|x86.ActiveCfg = Debug|Win32
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Debug|x86.Build.0 = Debug|Win32
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Release|x64.ActiveCfg = Release|x64
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Release|x64.Build.0 = Release|x64
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Release|x86.ActiveCfg = Release|Win32
+		{3BCA36D8-BB97-45C4-8D38-C7078997C080}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
